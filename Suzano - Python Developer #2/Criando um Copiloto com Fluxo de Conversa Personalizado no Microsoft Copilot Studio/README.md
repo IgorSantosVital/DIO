@@ -17,4 +17,4 @@ O **Copilot Studio** é uma plataforma que permite criar fluxos inteligentes e i
 
 ---
 
-✍️ Desenvolvido por [Seu Nome]  
+✍️ Desenvolvido por Igor
